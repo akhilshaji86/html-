@@ -1,13 +1,12 @@
 h1 {
     position: absolute;
-    
-        color : rgb(255, 255, 255) ;
-        width : 40% ;
-        text-align : center;
-        font-family : Arial ;
-        font-size :300% ;
-        margin : auto ;
-        word-spacing : normal;   
+    color: rgb(255, 255, 255);
+    width: 40%;
+    text-align: center;
+    font-family: Arial;
+    font-size: 300%;
+    margin: auto;
+    word-spacing: normal;
 }
 
 input {
@@ -21,4 +20,3 @@ input {
     padding-left: 30px;
     font-size: 25px;
 }
-
