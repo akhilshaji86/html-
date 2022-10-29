@@ -4,9 +4,10 @@ h1 {
     width: 40%;
     text-align: center;
     font-family: Arial;
-    font-size: 300%;
+    font-size: 60px;
     margin: auto;
     word-spacing: normal;
+    width: 100%;
 }
 
 input {
@@ -19,4 +20,9 @@ input {
     text-align: left;
     padding-left: 30px;
     font-size: 25px;
+}
+.icon{
+    position: absolute;
+    left: calc(50% + 180px);
+    top:calc(50% - 8px);
 }
